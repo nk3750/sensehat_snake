@@ -2,6 +2,10 @@
 
 An autonomous Snake game that runs on the Raspberry Pi Sense HAT LED matrix. Watch as the snake automatically navigates to find food, with colorful visuals and interactive brightness controls.
 
+## Demo
+
+![Snake Game Demo](Image%200168.gif)
+
 ## Features
 
 - **Autonomous Gameplay**: The snake uses AI pathfinding to automatically chase food
